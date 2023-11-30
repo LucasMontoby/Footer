@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+
+form{
+    max-width: 400px;
+    margin: auto;
+}
+
+label{
+    display: block; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input{
+    width: 95%;
+    padding: 8px;
+    border-radius: 3px;
+    font-size: 20px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+button{
+    background-color: burlywood;
+    color: rgb(8, 8, 8);
+    transition: background-color 3s;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: darkorchid;
+}
+
+
